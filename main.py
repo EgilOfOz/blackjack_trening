@@ -34,10 +34,10 @@ while True:
     elif kort[num] == "A":
         sum = sum + 11
     print(sum)
-    if sum == 21:
-        print("Du fikk 21!!! Gratulerer")
+    if sum == 31:
+        print("Du fikk 31!!! Gratulerer")
         break
-    elif sum > 21:
+    elif sum > 31:
         print("Taper...")
         break
     print()
